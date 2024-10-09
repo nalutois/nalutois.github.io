@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nalutois.github.io/sitemap.html.gz
+Sitemap: https://nalutois.github.io/app/sitemap.html.gz
+Sitemap: https://nalutois.github.io/assets/sitemap.html.gz
+Sitemap: https://nalutois.github.io/css/sitemap.html.gz
+Sitemap: https://nalutois.github.io/includes/sitemap.html.gz
+Sitemap: https://nalutois.github.io/item/sitemap.html.gz
+Sitemap: https://nalutois.github.io/src/sitemap.html.gz
